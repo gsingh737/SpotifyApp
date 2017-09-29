@@ -3,3 +3,6 @@ The boilerplate comes with webpack, and react installed along with enzyme as a t
 NPM install to download all the modules
 
 The environment also uses babel-eslint as a linter core for es-lint, the configuration for which can be changed in .eslintrc
+
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/gsingh737/SpotifyApp.svg)](https://greenkeeper.io/)
